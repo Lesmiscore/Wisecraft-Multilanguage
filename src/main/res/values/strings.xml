@@ -72,6 +72,10 @@
 	<string name="sortPlayerNames">Sort player names</string>
 	<string name="sortPluginNames">Sort plugin names</string>
 	<string name="showPcUserFace">Show skin of the face of PC version users</string>
+	<string name="mods">Mods</string>
+	<string name="type_colon">Type:</string>
+	<string name="name_colon">Name:</string>
+	<string name="version_colon">Version:</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
