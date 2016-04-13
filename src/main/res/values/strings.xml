@@ -76,6 +76,8 @@
 	<string name="type_colon">Type:</string>
 	<string name="name_colon">Name:</string>
 	<string name="version_colon">Version:</string>
+	<string name="pe">PE</string>
+	<string name="pc">PC</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
