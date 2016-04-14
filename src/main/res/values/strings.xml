@@ -78,6 +78,7 @@
 	<string name="version_colon">Version:</string>
 	<string name="pe">PE</string>
 	<string name="pc">PC</string>
+	<string name="foundServersCount">[NUMBER] servers found</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
