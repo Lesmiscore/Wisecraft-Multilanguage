@@ -79,6 +79,7 @@
 	<string name="pe">PE</string>
 	<string name="pc">PC</string>
 	<string name="foundServersCount">[NUMBER] servers found</string>
+	<string name="offline">Network is offline.</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
