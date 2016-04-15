@@ -81,6 +81,7 @@
 	<string name="foundServersCount">[NUMBER] servers found</string>
 	<string name="offline">Network is offline.</string>
 	<string name="bigRangeSearch">Search widely</string>
+	<string name="onMobileNetwork">Connecting on the cellular network</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
