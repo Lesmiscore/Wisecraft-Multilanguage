@@ -67,6 +67,14 @@
 	<string name="sortPlayerNames">プレイヤー名をソート(並び替え)</string>
 	<string name="sortPluginNames">プラグイン名をソート(並び替え)</string>
 	<string name="showPcUserFace">PC版ユーザーのスキンの顔の画像を表示する</string>
+	<string name="mods">MOD</string>
+	<string name="type_colon">種類:</string>
+	<string name="name_colon">名前:</string>
+	<string name="version_colon">バージョン:</string>
+	<string name="foundServersCount">[NUMBER]個のサーバーが検出されました</string>
+	<string name="offline">ネットワークはオフラインです。</string>
+	<string name="bigRangeSearch">広範囲検索</string>
+	<string name="onMobileNetwork">モバイルネットワークに接続しています。</string>
 	
 	<string name="font">DroidSans.ttf</string>
 	<string name="fontField">droidSans</string>
