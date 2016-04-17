@@ -4,4 +4,5 @@
 	<string name="font_icomoon1">(Symbols)</string>
 	<string name="font_sysDefault">System Default</string>
 	<string name="font_droidSans">Droid Sans</string>
+	<string name="font_robotoSlabLight">Roboto Slab Light</string>
 </resources>
