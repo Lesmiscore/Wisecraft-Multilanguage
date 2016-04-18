@@ -75,6 +75,7 @@
 	<string name="offline">ネットワークはオフラインです。</string>
 	<string name="bigRangeSearch">広範囲検索</string>
 	<string name="onMobileNetwork">モバイルネットワークに接続しています。</string>
+	<string name="serverOffline">サーバーはオフラインです。</string>
 	
 	<string name="font">DroidSans.ttf</string>
 	<string name="fontField">droidSans</string>
