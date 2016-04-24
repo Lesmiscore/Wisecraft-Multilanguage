@@ -84,6 +84,7 @@
 	<string name="onMobileNetwork">Connecting on the cellular network</string>
 	<string name="proxyIsWorking">Proxy is working on the background</string>
 	<string name="proxyIsAlreadyRunning">Proxy is already running in the background.</string>
+	<string name="exitCompletely">Stop background tasks when the app is exiting</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
