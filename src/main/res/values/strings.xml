@@ -85,6 +85,7 @@
 	<string name="proxyIsWorking">Proxy is working on the background</string>
 	<string name="proxyIsAlreadyRunning">Proxy is already running in the background.</string>
 	<string name="exitCompletely">Stop all background tasks when the app is exiting</string>
+	<string name="upgrading">Upgrading...</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
