@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="proxy">Proxy</string>
+	
 	<string name="connecting_colon">Connecting:</string>
 	<string name="stop_prox">Stop</string>
 	<string name="connect_to">Connect to:</string>
@@ -8,4 +10,17 @@
 	<string name="proxy_attention_2">Don\'t use this feature for antisocial purposes.</string>
 	<string name="next">Next</string>
 	<string name="close">@android:string/cancel</string>
+	
+	<string name="proxyIsWorking">Proxy is working on the background</string>
+	<string name="proxyIsAlreadyRunning">Proxy is already running in the background.</string>
+	
+	<!--Renamed-->
+	
+	<string name="mtl_attention_1">This doesn\'t change your IP address. The server will be shown on localhost.</string>
+	<string name="mtl_attention_2">@string/proxy_attention_2</string>
+
+	<string name="mtl">Mount to localhost</string>
+	<string name="mtlIsWorking">\"Mount to localhost\" is working on the background</string>
+	<string name="mtlIsAlreadyRunning">\"Mount to localhost\" is already running in the background.</string>
+	
 </resources>
