@@ -29,7 +29,6 @@
 	<string name="export_complete">エクスポート完了: [PATH]</string>
 	<string name="export_failed">エクスポート失敗</string>
 	<string name="addToMcpe">MCPEのサーバーリストに追加</string>
-	<string name="launchProxy">プロキシを開始</string>
 	<string name="ucpInfoError">このサーバーの詳細情報はありません。</string>
 	<string name="bringOnlinesToTop">オンラインのサーバーをリストの上に移動</string>
 	<string name="settings">設定</string>
@@ -37,7 +36,6 @@
 	<string name="updAnotherThread">別のスレッドでサーバーの状況を更新する</string>
 	<string name="settingsAttention">ほとんどの設定は、アプリの再起動後に適用されます。</string>
 	<string name="features">機能</string>
-	<string name="proxy">プロキシ</string>
 	<!--<string name="serverFinder">Server Finder (サーバーファインダー)</string>-->
 	<string name="sendInfos">アプリの品質向上のための情報を送信する</string>
 	<string name="ipWithoutPort">ポート無しのIPアドレスを入力してください</string>
@@ -87,7 +85,7 @@
 		<item>@string/testServer</item>
 		<item>@string/rcon</item>
 		<item>@string/addToMcpe</item>
-		<item>@string/launchProxy</item>
+		<item>@string/launchMtl</item>
 		<item>@string/serverFinder</item>
 	</string-array>
 
