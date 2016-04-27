@@ -10,4 +10,15 @@
 	<string name="proxy_attention_1">これはプロキシサーバーとの接続を行うものではありません。サーバーに直接接続されます。</string>
 	<string name="proxy_attention_2">この機能を反社会的な目的で使用しないで下さい。</string>
 	<string name="next">次へ</string>
+	
+	<!--Renamed-->
+	<string name="launchMtl">\"localhostにマウント\"を開始</string>
+
+	<string name="mtl_attention_1">これはあなたのIPアドレスを変更するものではありません。これはlocalhost経由でサーバーへの接続を行う時にのみ使用できます。</string>
+	<string name="mtl_attention_2">@string/proxy_attention_2</string>
+
+	<string name="mtl">localhostにマウント</string>
+	<string name="mtlIsWorking">\"localhostにマウント\"はバックグラウンドで動作中です。</string>
+	<string name="mtlIsAlreadyRunning">\"localhostにマウント\"はすでに起動しています。</string>
+	
 </resources>
