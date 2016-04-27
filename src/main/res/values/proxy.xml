@@ -18,7 +18,7 @@
 	<!--Renamed-->
 	<string name="launchMtl">Start \"Mount to localhost\"</string>
 		
-	<string name="mtl_attention_1">This doesn\'t change your IP address. The server will be shown on localhost.</string>
+	<string name="mtl_attention_1">This doesn\'t change your IP address. This only provides connections to the server via localhost.</string>
 	<string name="mtl_attention_2">@string/proxy_attention_2</string>
 
 	<string name="mtl">Mount to localhost</string>
