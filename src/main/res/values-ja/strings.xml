@@ -74,6 +74,8 @@
 	<string name="bigRangeSearch">広範囲検索</string>
 	<string name="onMobileNetwork">モバイルネットワークに接続しています。</string>
 	<string name="serverOffline">サーバーはオフラインです。</string>
+	<string name="exitCompletely">アプリの終了時に全バックグラウンドタスクを終了する</string>
+	<string name="upgrading">アップデートしています...</string>
 	
 	<string name="font">DroidSans.ttf</string>
 	<string name="fontField">droidSans</string>
