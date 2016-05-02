@@ -82,6 +82,8 @@
 	<string name="onMobileNetwork">Connecting on the cellular network</string>
 	<string name="exitCompletely">Stop all background tasks when the app is exiting</string>
 	<string name="upgrading">Upgrading...</string>
+	<string name="colorFormattedText">Use colors for the server names</string>
+	<string name="darkBackgroundForServerName">Use dirt background for server names</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
