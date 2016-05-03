@@ -84,6 +84,7 @@
 	<string name="upgrading">Upgrading...</string>
 	<string name="colorFormattedText">Use colors for the server names</string>
 	<string name="darkBackgroundForServerName">Use dirt background for server names</string>
+	<string name="specialDrawer1">Set Drawer\'s height same as screen\'s height</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
