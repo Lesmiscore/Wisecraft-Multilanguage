@@ -85,7 +85,7 @@
 	<string name="colorFormattedText">Use colors for the server names</string>
 	<string name="darkBackgroundForServerName">Use dirt background for server names</string>
 	<string name="specialDrawer1">Set Drawer\'s height same as screen\'s height</string>
-	<string name="seeTitle">See title for all</string>
+	<string name="seeTitle">See the title for all</string>
 	<string name="showDetailsIfNoDetails">Show server information if there\'s no detail information</string>
 	
 	
