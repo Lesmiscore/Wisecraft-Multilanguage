@@ -76,6 +76,12 @@
 	<string name="serverOffline">サーバーはオフラインです。</string>
 	<string name="exitCompletely">アプリの終了時に全バックグラウンドタスクを終了する</string>
 	<string name="upgrading">アップデートしています...</string>
+	<string name="colorFormattedText">サーバー名に色をつける</string>
+	<string name="darkBackgroundForServerName">サーバー名の部分の背景を土にする</string>
+	<string name="specialDrawer1">ドロワーの高さを画面と同じにする</string>
+	<string name="seeTitle">サーバー名の全体を見る</string>
+	<string name="showDetailsIfNoDetails">詳細情報が無くてもサーバー詳細を表示する</string>
+	
 	
 	<string name="font">DroidSans.ttf</string>
 	<string name="fontField">droidSans</string>
