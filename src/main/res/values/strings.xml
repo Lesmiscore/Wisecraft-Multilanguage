@@ -87,15 +87,17 @@
 	<string name="specialDrawer1">Set Drawer\'s height same as screen\'s height</string>
 	<string name="seeTitle">See whole the server name</string>
 	<string name="showDetailsIfNoDetails">Show the server information if there\'s no detail information</string>
+	<string name="remove">Remove</string>
+	<string name="edit">Edit</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
 	<string name="fontField">latoLight</string>
 	
 	<string-array name="serverSubMenu">
-		<item>Remove</item>
+		<item>@string/remove</item>
 		<item>@string/update</item>
-		<item>Edit</item>
+		<item>@string/edit</item>
 		<item>@string/testServer</item>
 		<item>@string/rcon</item>
 		<item>@string/addToMcpe</item>

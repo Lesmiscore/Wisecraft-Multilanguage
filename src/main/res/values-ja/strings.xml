@@ -81,21 +81,12 @@
 	<string name="specialDrawer1">ドロワーの高さを画面と同じにする</string>
 	<string name="seeTitle">サーバー名の全体を見る</string>
 	<string name="showDetailsIfNoDetails">詳細情報が無くてもサーバー詳細を表示する</string>
+	<string name="remove">削除</string>
+	<string name="edit">編集</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
 	<string name="fontField">droidSans</string>
-	
-	<string-array name="serverSubMenu">
-		<item>削除</item>
-		<item>@string/update</item>
-		<item>編集</item>
-		<item>@string/testServer</item>
-		<item>@string/rcon</item>
-		<item>@string/addToMcpe</item>
-		<item>@string/launchMtl</item>
-		<item>@string/serverFinder</item>
-	</string-array>
 
 	<string-array name="serverListStyles">
 		<item>デフォルト</item>
