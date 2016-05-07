@@ -89,6 +89,7 @@
 	<string name="showDetailsIfNoDetails">Show the server information if there\'s no detail information</string>
 	<string name="remove">Remove</string>
 	<string name="edit">Edit</string>
+	<string name="useBright">Use \"Bright\" theme</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
