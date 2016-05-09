@@ -83,6 +83,8 @@
 	<string name="showDetailsIfNoDetails">詳細情報が無くてもサーバー詳細を表示する</string>
 	<string name="remove">削除</string>
 	<string name="edit">編集</string>
+	<string name="useBright">\"Bright\"テーマを使用する (6.0以降)</string>
+	<string name="osl">オープンソースライセンス</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
