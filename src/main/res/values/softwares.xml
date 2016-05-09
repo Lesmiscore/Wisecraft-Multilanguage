@@ -1,0 +1,9 @@
+<resources>
+	<string name="aosp">Android Open Source Project\nsupport-v4\nappcompat-v7\ndesign\ncardview-v7\nmultidex</string>
+	<string name="gson">Gson</string>
+	<string name="apacheHttp">Apache HttpClient</string>
+	<string name="nanohttpd">NanoHTTPD</string>
+	<string name="jsoup">Jsoup</string>
+	<string name="calligraphy">Calligraphy</string>
+</resources>
+
