@@ -85,6 +85,7 @@
 	<string name="edit">編集</string>
 	<string name="useBright">\"Bright\"テーマを使用する (6.0以降)</string>
 	<string name="osl">オープンソースライセンス</string>
+	<string name="aboutApp">このアプリについて</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
