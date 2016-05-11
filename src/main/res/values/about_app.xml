@@ -4,4 +4,10 @@
 	
 	<string name="aboutAppTranslationUrl">http://github.com/nao20010128nao/Wisecraft-Multilanguage</string>
 	<string name="gotoTranslationPage">Go to Translation Website</string>
+	
+	<string name="nao20010128nao">nao20010128nao</string>
+	
+	<string name="nao20010128naoTwitterLink">http://twitter.com/m0_84</string>
+	<string name="nao20010128naoGooglePlusLink">https://plus.google.com/+nao20010128naoX</string>
+	<string name="nao20010128naoYouTubeLink">https://youtube.com/c/nao20010128naoX</string>
 </resources>
