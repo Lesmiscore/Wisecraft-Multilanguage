@@ -2,8 +2,10 @@
 	<string name="aboutAppText1">このアプリは、\"PocketCommand\"はもう使えないと思ったnao20010128naoが作成したものです。\nもちろん広告はありません。今後も入れる予定はありません。\nこのアプリはいつでも無料です。</string>
 	<string name="aboutAppText2">もしあなたがこのアプリの翻訳にご協力頂けるなら、こちらにてPull Requestをお送り下さい:﻿</string>
 	<string name="aboutAppText4">このアプリを収益のため、もしくは商用利用のために使用してはなりません。</string>
+	<string name="aboutAppText5">バグが見つかりました</string>
 	
 	<string name="gotoTranslationPage">翻訳プロジェクトサイトを見る</string>
 	
 	<string name="aboutDeveloper">開発者を見る</string>
+	<string name="gotoBugReport">こちらからバグ報告できます。(日本語歓迎です)</string>
 </resources>
