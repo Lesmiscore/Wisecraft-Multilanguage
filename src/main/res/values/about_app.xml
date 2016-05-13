@@ -2,6 +2,7 @@
 	<string name="aboutAppText1">This app is made by nao20010128nao who thinks about \"PocketCommand\" is not working now.\nOf course, I don\'t put any ads. And I won\'t do that.\nThis app is always free.</string>
 	<string name="aboutAppText2">If you can support me to translate this app, please send me Pull Requests me here:</string>
 	<string name="aboutAppText4">Do NOT use this app for affiliate or corporate use.</string>
+	<string name="aboutAppText5">Found a bug?</string>
 	
 	<string name="aboutAppTranslationUrl">http://github.com/nao20010128nao/Wisecraft-Multilanguage</string>
 	<string name="gotoTranslationPage">Go to Translation Website</string>
@@ -12,4 +13,7 @@
 	<string name="nao20010128naoTwitterLink">https://twitter.com/intent/user?user_id=2596213598</string>
 	<string name="nao20010128naoGooglePlusLink">https://plus.google.com/+nao20010128naoX</string>
 	<string name="nao20010128naoYouTubeLink">https://youtube.com/c/nao20010128naoX</string>
+	
+	<string name="gotoBugReport">Go to bug report page</string>
+	<string name="bugReportUrl">https://github.com/nao20010128nao/Wisecraft/issues/new</string>
 </resources>
