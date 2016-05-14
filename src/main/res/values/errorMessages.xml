@@ -1,0 +1,3 @@
+<resources>
+	<string name="error_msg_noperm_externalStorage">Error: Permission for writing into the external stotage is denied.</string>
+</resources>
