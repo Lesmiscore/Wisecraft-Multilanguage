@@ -93,6 +93,8 @@
 	<string name="osl">Open Source License</string>
 	<string name="aboutApp">About this app</string>
 	<string name="sort">Sort</string>
+	<string name="sortWithIpAndPort">IP address and Port</string>
+	<string name="sortWithOnlineAndOffline">Both of Online and Offline servers</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
@@ -110,6 +112,11 @@
 	</string-array>
 	<string-array name="serverFinderMenu">
 		<item>@string/addThisServer</item>
+	</string-array>
+	<string-array name="serverSortMenu">
+		<item>@string/bringOnlinesToTop</item>
+		<item>@string/sortWithIpAndPort</item>
+		<item>@string/sortWithOnlineAndOffline</item>
 	</string-array>
 	
 	
