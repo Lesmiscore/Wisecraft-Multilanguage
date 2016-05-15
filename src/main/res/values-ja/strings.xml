@@ -86,6 +86,9 @@
 	<string name="useBright">\"Bright\"テーマを使用する (6.0以降)</string>
 	<string name="osl">オープンソースライセンス</string>
 	<string name="aboutApp">このアプリについて</string>
+	<string name="sort">ソート(並び替え)</string>
+	<string name="sortWithIpAndPort">IPアドレスとポート</string>
+	<string name="sortWithOnlineAndOffline">オンラインとオフラインのサーバーそれぞれでIPアドレスとポート</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
