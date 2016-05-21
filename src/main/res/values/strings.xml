@@ -96,6 +96,7 @@
 	<string name="sortWithIpAndPort">IP address and Port</string>
 	<string name="sortWithOnlineAndOffline">Both of Online and Offline servers with IP address and Port</string>
 	<string name="showStatusesBar">Show the status color bar in the bottom</string>
+	<string name="deleteDecoPlayerName">Delete formatting codes in player names.</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
