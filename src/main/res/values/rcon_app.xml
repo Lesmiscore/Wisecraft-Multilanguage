@@ -1,0 +1,4 @@
+<resources>
+	<string name="addSingle">Add a server normally</string>
+	<string name="importFromWc">Import from Wisecraft</string>
+</resources>
