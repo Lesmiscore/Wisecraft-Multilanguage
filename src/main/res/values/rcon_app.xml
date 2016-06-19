@@ -1,4 +1,5 @@
 <resources>
 	<string name="addSingle">Add a server normally</string>
 	<string name="importFromWc">Import from Wisecraft</string>
+	<string name="auSure_exit">Are you sure to exit?</string>
 </resources>
