@@ -2,4 +2,10 @@
 	<string name="addSingle">Add a server normally</string>
 	<string name="importFromWc">Import from Wisecraft</string>
 	<string name="auSure_exit">Are you sure to exit?</string>
+
+	
+	<string-array name="rconAppServerSubMenu">
+		<item>@string/remove</item>
+		<item>@string/edit</item>
+	</string-array>
 </resources>
