@@ -2,6 +2,7 @@
 	<string name="addSingle">Add a server normally</string>
 	<string name="importFromWc">Import from Wisecraft</string>
 	<string name="auSure_exit">Are you sure to exit?</string>
+	<string name="rconSendError">(Failed to send the command.)\n(Please check the status of your server.)</string>
 
 	
 	<string-array name="rconAppServerSubMenu">
