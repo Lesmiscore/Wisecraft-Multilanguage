@@ -4,6 +4,7 @@
 	<string name="auSure_exit">Are you sure to exit?</string>
 	<string name="rconSendError">(Failed to send the command.)\n(Please check the status of your server.)</string>
 	<string name="rconListError">Failed to get the list of players.\nPlease check the status of your server.</string>
+	<string name="other">Other</string>
 
 	
 	<string-array name="rconAppServerSubMenu">
