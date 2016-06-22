@@ -6,6 +6,7 @@
 	<string name="rconListError">Failed to get the list of players.\nPlease check the status of your server.</string>
 	<string name="other">Other</string>
 	<string name="aboutApp_qDesk">This app is based on Wisecraft. Wisecraft is not required to use all the functions.</string>
+	<string name="reconnect"></string>
 
 	
 	<string-array name="rconAppServerSubMenu">
