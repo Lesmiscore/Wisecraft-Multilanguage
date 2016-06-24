@@ -1,0 +1,10 @@
+<resources>
+	<string name="addSingle">サーバーを普通に追加</string>
+	<string name="importFromWc">Wisecraftからインポー</string>
+	<string name="auSure_exit">終了してもよろしいですか?</string>
+	<string name="rconSendError">(コマンドの送信に失敗しました。)\n(サーバーの状態をご確認下さい。)</string>
+	<string name="rconListError">プレイヤーの一覧の取得に失敗しました。\nサーバーの状態をご確認下さい。</string>
+	<string name="other">その他</string>
+	<string name="aboutApp_qDesk">このアプリはWisecraftを基礎として作られています。このアプリの全機能の動作にはWisecraftは不要です。</string>
+	<string name="reconnect">再接続</string>
+</resources>
