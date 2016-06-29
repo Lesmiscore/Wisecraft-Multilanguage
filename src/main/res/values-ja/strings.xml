@@ -89,6 +89,9 @@
 	<string name="sort">ソート(並び替え)</string>
 	<string name="sortWithIpAndPort">IPアドレスとポート</string>
 	<string name="sortWithOnlineAndOffline">オンラインとオフラインのサーバーそれぞれでIPアドレスとポート</string>
+	<string name="showStatusesBar">ステータスカラーバーを下に表示</string>
+	<string name="deleteDecoPlayerName">プレイヤー名から装飾コードを削除</string>
+	<string name="useOldActivity">古い見た目\n(もう新機能に基づいて内容は更新されません)</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
