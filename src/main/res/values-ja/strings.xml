@@ -58,7 +58,7 @@
 	<string name="currentSlsVersion">現在のライブラリのバージョン</string>
 	<string name="unknown">不明</string>
 	<string name="addThisServer">このサーバーを追加</string>
-	<string name="export_typepath">エクスポートするJSONファイルのパスを入力してください</string>
+	<string name="export_typepath">エクスポート先のJSONファイルのパスを入力してください</string>
 	<string name="exporting">エクスポートしています...</string>
 	<string name="imported">インポート完了: [PATH]</string>
 	<string name="basics">ベーシック設定</string>
