@@ -1,0 +1,7 @@
+<resources>
+	<string name="ucp.maxPlayers">@string/pc_maxPlayers</string>
+	<string name="ucp.nowPlayers">@string/pc_nowPlayers</string>
+	<string name="ucp.protocolVersion">@string/pc_protocolVersion</string>
+	<string name="ucp.serverName">Server Name</string>
+	<string name="ucp.mcpeVersion">Required Minecraft:PE Version</string>
+</resources>

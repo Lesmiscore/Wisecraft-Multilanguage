@@ -4,5 +4,4 @@
 	<string name="pc_nowPlayers">Joining Players</string>
 	<string name="pc_protocolVersion">Protocol Version</string>
 	<string name="pc_softwareVersion">Server Software</string>
-	
 </resources>
