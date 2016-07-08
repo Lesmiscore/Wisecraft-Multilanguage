@@ -101,6 +101,7 @@
 	<string name="useOldActivity">Old look\n(Contents won\'t be updated never!)</string>
 	<string name="statusBarTouchScroll">Jump quickly by touching the status color bar</string>
 	<string name="serverGetFetch">Fetching the server list. Please wait.</string>
+	<string name="data_ucp">Details (UCP)</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
