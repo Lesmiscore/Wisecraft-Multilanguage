@@ -92,9 +92,9 @@
 	<string name="showStatusesBar">ステータスカラーバーを下に表示</string>
 	<string name="deleteDecoPlayerName">プレイヤー名から装飾コードを削除</string>
 	<string name="useOldActivity">古い見た目\n(もう新機能に基づいて内容は更新されません)</string>
-	<string name="statusBarTouchScroll">Jump quickly by touching the status color bar</string>
-	<string name="serverGetFetch">Fetching the server list. Please wait.</string>
-	<string name="data_ucp">Details (UCP)</string>
+	<string name="statusBarTouchScroll">ステータスカラーバーをタッチして高速移動</string>
+	<string name="serverGetFetch">サーバーリストを取得中です。お待ち下さい。</string>
+	<string name="data_ucp">詳細 (MCPE内)</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
