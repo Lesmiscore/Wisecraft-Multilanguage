@@ -94,7 +94,7 @@
 	<string name="useOldActivity">古い見た目\n(もう新機能に基づいて内容は更新されません)</string>
 	<string name="statusBarTouchScroll">ステータスカラーバーをタッチして高速移動</string>
 	<string name="serverGetFetch">サーバーリストを取得中です。お待ち下さい。</string>
-	<string name="data_ucp">詳細 (MCPE内)</string>
+	<string name="data_ucp">詳細\n(MCPE内)</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
