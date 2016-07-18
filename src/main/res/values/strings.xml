@@ -101,7 +101,7 @@
 	<string name="useOldActivity">Old look\n(Contents won\'t be updated never!)</string>
 	<string name="statusBarTouchScroll">Jump quickly by touching the status color bar</string>
 	<string name="serverGetFetch">Fetching the server list. Please wait.</string>
-	<string name="data_ucp">Details\n(In-game)</string>
+	<string name="data_ucp">Details (In-game)</string>
 	<string name="export_single">Export</string>
 	<string name="import_single">Import</string>
 	<string name="newVersionAnnounceTitle_30">Updated in 3.0</string>
