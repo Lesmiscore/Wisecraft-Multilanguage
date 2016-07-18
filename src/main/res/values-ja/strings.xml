@@ -101,8 +101,7 @@
 	<string name="fontField">droidSans</string>
 
 	<string-array name="serverListStyles">
-		<item>デフォルト</item>
-		<item>メニューにボタンを用いたナビゲーションドロワーを使用するバージョン</item>
-		<item>メニューにリストを用いたナビゲーションドロワーを使用するバージョン</item>
+		<item>リスト</item>
+		<item>グリッド</item>
 	</string-array>
 </resources>

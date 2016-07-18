@@ -162,8 +162,7 @@
 	</string-array>
 	
 	<string-array name="serverListStyles">
-		<item>Default</item>
-		<item>Use Navigation drawer with Buttons instead of Menu</item>
-		<item>Use Navigation drawer with a List instead of Menu</item>
+		<item>List</item>
+		<item>Grid</item>
 	</string-array>
 </resources>
