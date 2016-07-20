@@ -1,5 +1,10 @@
 <resources>
-	<string name="username_is">Username:</string>
+	<string name="email_is">Email:</string>
 	<string name="password_is">Password:</string>
-	<string name="signin">Signin</string>
+	<string name="signin">Sign In</string>
+	<string name="or">Or</string>
+	<string name="signin_anonymous">Sign In Anonymously</string>
+	<string name="new_acc">New Account</string>
+	<string name="not_now">Not Now</string>
+	<string name="signingin">Signing In...</string>
 </resources>
