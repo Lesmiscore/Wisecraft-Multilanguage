@@ -7,4 +7,6 @@
 	<string name="new_acc">New Account</string>
 	<string name="not_now">Not Now</string>
 	<string name="signingin">Signing In...</string>
+	<string name="unableSignin">Unable to sign in.\nPlease check your Email address, password and the Internet connection.</string>
+	<string name="unableSigninAnon">Unable to sign in.\nPlease check the Internet connection.</string>
 </resources>
