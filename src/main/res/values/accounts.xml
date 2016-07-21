@@ -10,4 +10,6 @@
 	<string name="unableSignin">Unable to sign in.\nPlease check your Email address, password and the Internet connection.</string>
 	<string name="unableSigninAnon">Unable to sign in.\nPlease check the Internet connection.</string>
 	<string name="register">Register</string>
+	<string name="registering">Registering...</string>
+	<string name="unableRegister">Unable to register.\nPlease check the Internet connection.</string>
 </resources>
