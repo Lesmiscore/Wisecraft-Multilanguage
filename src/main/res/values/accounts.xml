@@ -1,6 +1,7 @@
 <resources>
 	<string name="email_is">Email:</string>
 	<string name="password_is">Password:</string>
+	<string name="password_again">Verify:</string>
 	<string name="signin">Sign In</string>
 	<string name="or">Or</string>
 	<string name="signin_anonymous">Sign In Anonymously</string>
@@ -12,4 +13,7 @@
 	<string name="register">Register</string>
 	<string name="registering">Registering...</string>
 	<string name="unableRegister">Unable to register.\nPlease check the Internet connection.</string>
+	<string name="invalidEmail">Invalid Email.\nPlease make sure that you typed a correct Email address.</string>
+	<string name="invalidPassword">Too short password.\nAt least 8 characters are needed for a password.</string>
+	<string name="mismatchPassword">Password and Verify don\'t match.\nPlease check they\'re the same.</string>
 </resources>
