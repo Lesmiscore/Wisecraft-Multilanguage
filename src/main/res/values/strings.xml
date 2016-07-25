@@ -108,6 +108,7 @@
 	<string name="newVersionAnnounceContent_30">Menu on upper right has moved to the drawer on the left.\nTo show the menu, swipe from left to right, or tap the \"hamburger\" icon on the upper left.</string>
 	<string name="serverListStyles_list">List</string>
 	<string name="serverListStyles_grid">Grid</string>
+	<string name="unavailableThisInfo">This information is unavailable.</string>
 	
 	
 	<string name="font">lato-light.ttf</string>
