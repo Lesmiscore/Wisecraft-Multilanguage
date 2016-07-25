@@ -95,13 +95,10 @@
 	<string name="statusBarTouchScroll">ステータスカラーバーをタッチして高速移動</string>
 	<string name="serverGetFetch">サーバーリストを取得中です。お待ち下さい。</string>
 	<string name="data_ucp">詳細 (MCPE内)</string>
+	<string name="serverListStyles_list">リスト</string>
+	<string name="serverListStyles_grid">グリッド</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
 	<string name="fontField">droidSans</string>
-
-	<string-array name="serverListStyles">
-		<item>リスト</item>
-		<item>グリッド</item>
-	</string-array>
 </resources>
