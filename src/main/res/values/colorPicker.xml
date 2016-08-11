@@ -1,0 +1,4 @@
+<resources>
+    <string name="action_settings">@string/settings</string>
+    <string name="close">@android:string/close</string>
+</resources>
