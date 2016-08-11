@@ -111,6 +111,7 @@
 	<string name="serverListStyles_noSpace">Grid (Makes no blank spaces)</string>
 	<string name="unavailableThisInfo">This information is unavailable.</string>
 	<string name="colorChange">Change Colors</string>
+	<string name="colorChange_mainColor">Wisecraft: Main Color</string>
 	<string name="colorChange_statusOk">Server Status: Online</string>
 	<string name="colorChange_statusError">Server Status: Offline</string>
 	<string name="colorChange_statusPending">Server Status: Pinging</string>
