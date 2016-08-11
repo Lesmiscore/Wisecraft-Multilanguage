@@ -114,6 +114,8 @@
 	<string name="colorChange_statusOk">Server Status: Online</string>
 	<string name="colorChange_statusError">Server Status: Offline</string>
 	<string name="colorChange_statusPending">Server Status: Pinging</string>
+	<string name="failedImport">Failed to import.</string>
+	<string name="fileNotExist">The file doesn\'t exist.</string>
 	
 	
 	
