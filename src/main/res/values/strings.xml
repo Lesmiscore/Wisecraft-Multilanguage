@@ -119,6 +119,7 @@
     <string name="failedImport">Failed to import.</string>
     <string name="fileNotExist">The file doesn\'t exist.</string>
     <string name="select">Select</string>
+	<string name="preview">Preview</string>
 
 
 
