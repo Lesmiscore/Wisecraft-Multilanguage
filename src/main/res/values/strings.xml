@@ -181,4 +181,12 @@
         <item>@string/serverListStyles_grid</item>
         <item>@string/serverListStyles_noSpace</item>
     </string-array>
+	
+	<string-array name="fontNamesOrder">
+        <item>droidSans</item>
+        <item>latoLight</item>
+        <item>robotoSlabLight</item>
+        <item>ubuntuFont</item>
+        <item>sysDefault</item>
+    </string-array>
 </resources>

@@ -5,4 +5,5 @@
 	<string name="font_sysDefault">System Default</string>
 	<string name="font_droidSans">Droid Sans</string>
 	<string name="font_robotoSlabLight">Roboto Slab Light</string>
+	<string name="font_ubuntu">Ubuntu</string>
 </resources>
