@@ -120,6 +120,7 @@
     <string name="fileNotExist">The file doesn\'t exist.</string>
     <string name="select">Select</string>
 	<string name="preview">Preview</string>
+	<string name="changeDpi">GUI Scale</string>
 
 
 
