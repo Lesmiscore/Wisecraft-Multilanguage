@@ -121,6 +121,12 @@
     <string name="select">Select</string>
 	<string name="preview">Preview</string>
 	<string name="changeDpi">GUI Scale</string>
+	<string name="loadPing">Load an exported ping result</string>
+	<string name="exportPing">Export this ping result</string>
+	<string name="load_typepath_simple">Type the path to the file to load</string>
+	<string name="export_typepath_simple">Type the path to the file to export</string>
+	<string name="loading">Loading...</string>
+	<string name="loadPing_loadError">Failed to load the file.</string>
 
 
 
