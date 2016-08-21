@@ -127,7 +127,17 @@
 	<string name="export_typepath_simple">Type the path to the file to export</string>
 	<string name="loading">Loading...</string>
 	<string name="loadPing_loadError">Failed to load the file.</string>
-
+	<string name="versionInfo">Version Information</string>
+	<string name="versionInfo_wisecraft">Version</string>
+	<string name="versionInfo_wisecraftInternal">Internal Version</string>
+	<string name="versionInfo_i18nInternal">Internal Version of i18n resources</string>
+	<string name="versionInfo_statusesLayoutInternal">Internal Version of StatusesLayout</string>
+	<string name="versionInfo_materialIconsInternal">Internal Version of MaterialsIcons</string>
+	<string name="versionInfo_calligraphyInternal">Internal Version of Calligraphy</string>
+	<string name="versionInfo_pstsInternal">Internal Version of PagerSlidingTabStrip</string>
+	<string name="versionInfo_colorPickerInternal">Internal Version of AndroidPhotoshopColorPicker</string>
+	
+	
 
 
     <string name="font">lato-light.ttf</string>
