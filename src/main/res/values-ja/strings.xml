@@ -99,6 +99,21 @@
 	<string name="serverListStyles_grid">グリッド</string>
 	<string name="serverListStyles_noSpace">グリッド (空白削減)</string>
 	<string name="unavailableThisInfo">この情報は取得されていません。</string>
+	<string name="colorChange">色の変更</string>
+    <string name="colorChange_statusOk">サーバーステータス: オンライン</string>
+    <string name="colorChange_statusError">サーバーステータス: オフライン</string>
+    <string name="colorChange_statusPending">サーバーステータス: 問い合わせ中</string>
+    <string name="failedImport">インポートに失敗しました。</string>
+    <string name="fileNotExist">ファイルは見つかりません。</string>
+    <string name="select">選択</string>
+	<string name="preview">プレビュー</string>
+	<string name="changeDpi">GUIスケール</string>
+	<string name="loadPing">書き出したping結果を読み込む</string>
+	<string name="exportPing">このping結果を書き出す</string>
+	<string name="load_typepath_simple">読み込むファイルのパスを入力してください</string>
+	<string name="export_typepath_simple">書き出し先のファイルのパスを入力してください</string>
+	<string name="loading">読み込み中...</string>
+	<string name="loadPing_loadError">読み込みに失敗しました。</string>
 	
 	
 	<string name="font">DroidSans.ttf</string>
