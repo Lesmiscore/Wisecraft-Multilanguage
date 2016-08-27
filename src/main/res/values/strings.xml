@@ -136,6 +136,12 @@
 	<string name="versionInfo_calligraphyInternal">Internal Version of Calligraphy</string>
 	<string name="versionInfo_pstsInternal">Internal Version of PagerSlidingTabStrip</string>
 	<string name="versionInfo_colorPickerInternal">Internal Version of AndroidPhotoshopColorPicker</string>
+	<string name="auSureToAddServer">Are you sure to add this server?</string>
+	<string name="kind">Kind</string>
+	<string name="peServer">PE Server</string>
+	<string name="pcServer">PC Server</string>
+	<string name="ipAddress">IP address</string>
+    <string name="port_single">Port:</string>
 	
 	
 
