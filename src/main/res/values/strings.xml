@@ -141,7 +141,7 @@
 	<string name="peServer">PE Server</string>
 	<string name="pcServer">PC Server</string>
 	<string name="ipAddress">IP address</string>
-    <string name="port_single">Port:</string>
+    <string name="port_single">Port</string>
 	
 	
 
