@@ -124,6 +124,15 @@
     <string name="versionInfo_calligraphyInternal">Calligraphyの内部バージョン</string>
     <string name="versionInfo_pstsInternal">PagerSlidingTabStripの内部バージョン</string>
     <string name="versionInfo_colorPickerInternal">AndroidPhotoshopColorPickerの内部バージョン</string>
+    <string name="auSureToAddServer">このサーバーを追加してもよろしいですか?</string>
+    <string name="kind">種別</string>
+    <string name="peServer">PEサーバー</string>
+    <string name="pcServer">PCサーバー</string>
+    <string name="ipAddress">IPアドレス</string>
+    <string name="port_single">ポート</string>
+    <string name="noCellular">モバイルネットワーク接続時にはpingしない</string>
+    <string name="noCellular_desc">Wisecraftはサーバーをオフラインとして扱うため、必要に応じてサーバーをタッチしてpingする必要があります。</string>
+    <string name="sortByHand">手動で並び替え</string>
 
 
     <string name="font">DroidSans.ttf</string>
