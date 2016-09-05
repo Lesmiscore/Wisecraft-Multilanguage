@@ -3,6 +3,7 @@
 	<string name="aboutAppText2">If you can support me to translate this app, please send me Pull Requests me here:</string>
 	<string name="aboutAppText4">Do NOT use this app for affiliate or corporate use.</string>
 	<string name="aboutAppText5">Found a bug?</string>
+    <string name="aboutAppText6">Wisecraft Tools</string>
 	
 	<string name="aboutAppTranslationUrl">http://github.com/nao20010128nao/Wisecraft-Multilanguage</string>
 	<string name="gotoTranslationPage">Go to Translation Website</string>
@@ -16,4 +17,8 @@
 	
 	<string name="gotoBugReport">Go to bug report page</string>
 	<string name="bugReportUrl">https://github.com/nao20010128nao/Wisecraft/issues/new</string>
+    
+    <string name="gotoWisecraftTools">Go to Wisecraft Tools</string>
+    <string name="wisecraftToolsUrl">https://nao20010128nao.github.io/wisecraft</string>
+    <string name="wisecraftToolsText">Wisecraft Tools is available on web to use some functions on Wisecraft.</string>
 </resources>

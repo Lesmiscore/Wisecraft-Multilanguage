@@ -8,4 +8,8 @@
 	
 	<string name="aboutDeveloper">開発者を見る</string>
 	<string name="gotoBugReport">こちらからバグ報告できます。(日本語歓迎です)</string>
+    
+    <string name="gotoWisecraftTools">Wisecraft Toolsを開く</string>
+    <string name="wisecraftToolsUrl">https://nao20010128nao.github.io/wisecraft</string>
+    <string name="wisecraftToolsText">Wisecraft Toolsは、Wisecraft内のいくつかのツールを使用するために使います。</string>
 </resources>
