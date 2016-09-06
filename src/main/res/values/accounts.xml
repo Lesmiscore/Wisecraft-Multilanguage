@@ -18,4 +18,5 @@
 	<string name="mismatchPassword">Password and Verify don\'t match.\nPlease check they\'re the same.</string>
     <string name="anonymous">Anonymous</string>
     <string name="noLogin">Not Logged in</string>
+	<string name="account">Account</string>
 </resources>
