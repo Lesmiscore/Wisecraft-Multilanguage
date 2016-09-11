@@ -147,6 +147,14 @@
     <string name="sortByHand">Sort manually</string>
 	<string name="addLessRows">Adjust rows of Server List</string>
 	<string name="noScrollServerInfo">Don\'t scroll the Server Info screen</string>
+	<string name="action">Action</string>
+	<string name="serverDetails">Server Details</string>
+	<string name="addServer">Add a Server</string>
+	<string name="ipOrHost">IP address or host</string>
+	<string name="mode">Mode</string>
+	<string name="result">Result</string>
+	<string name="generate">Generate</string>
+	<string name="genLink">Generate \"Wisecraft Open\" link</string>
     
 	
 	
