@@ -172,6 +172,7 @@
         <item>@string/addToMcpe</item>
         <item>@string/launchMtl</item>
         <item>@string/serverFinder</item>
+		<item>@string/genLink</item>
     </string-array>
     <string-array name="serverFinderMenu">
         <item>@string/addThisServer</item>
@@ -181,25 +182,6 @@
         <item>@string/sortWithIpAndPort</item>
         <item>@string/sortWithOnlineAndOffline</item>
         <item>@string/sortByHand</item>
-    </string-array>
-
-    <string-array name="serverSubMenu_old">
-        <item>@string/remove</item>
-        <item>@string/update</item>
-        <item>@string/edit</item>
-        <item>@string/testServer</item>
-        <item>@string/rcon</item>
-        <item>@string/addToMcpe</item>
-        <item>@string/launchMtl</item>
-        <item>@string/serverFinder</item>
-    </string-array>
-    <string-array name="serverFinderMenu_old">
-        <item>@string/addThisServer</item>
-    </string-array>
-    <string-array name="serverSortMenu_old">
-        <item>@string/bringOnlinesToTop</item>
-        <item>@string/sortWithIpAndPort</item>
-        <item>@string/sortWithOnlineAndOffline</item>
     </string-array>
 
 
