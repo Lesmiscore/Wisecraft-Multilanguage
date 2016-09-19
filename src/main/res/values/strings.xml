@@ -155,6 +155,8 @@
 	<string name="result">Result</string>
 	<string name="generate">Generate</string>
 	<string name="genLink">Generate \"Wisecraft Open\" link</string>
+	<string name="copyToClipboard">Copy to clipboard</string>
+	<string name="copied">Copied</string>
     
 	
 	
