@@ -143,7 +143,7 @@
 	<string name="ipAddress">IP address</string>
     <string name="port_single">Port</string>
     <string name="noCellular">Don\'t ping servers when the device is connecting to the cellular network</string>
-    <string name="noCellular_desc">Wisecraft will show servers as offline, so if you need to tap to ping</string>
+    <string name="noCellular_desc">Wisecraft will show servers as offline, so you need to tap to ping</string>
     <string name="sortByHand">Sort manually</string>
 	<string name="addLessRows">Adjust rows of Server List</string>
 	<string name="noScrollServerInfo">Don\'t scroll the Server Info screen</string>
