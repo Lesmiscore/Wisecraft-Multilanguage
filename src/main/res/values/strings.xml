@@ -159,6 +159,10 @@
 	<string name="tapToSelectServer">Tap here to select server</string>
 	<string name="typeServer">Type a server</string>
 	<string name="widgetEditor">Widget Editor</string>
+	<string name="updateAll.all">Update all the servers</string>
+	<string name="updateAll.online">Update only online servers</string>
+	<string name="updateAll.offline">Update only offline servers</string>
+	<string name="updateAll.select">Select servers to update</string>
     
 	
 	
@@ -187,6 +191,12 @@
         <item>@string/sortWithOnlineAndOffline</item>
         <item>@string/sortByHand</item>
     </string-array>
+	<string-array name="serverUpdateAllSubMenu">
+		<item>@string/updateAll.all</item>
+        <item>@string/updateAll.online</item>
+        <item>@string/updateAll.offline</item>
+        <item>@string/updateAll.select</item>
+	</string-array>
 
 
     <string-array name="serverListSites">
