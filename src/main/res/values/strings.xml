@@ -156,7 +156,6 @@
 	<string name="genLink">Generate \"Wisecraft Open\" link</string>
 	<string name="copyToClipboard">Copy to clipboard</string>
 	<string name="copied">Copied</string>
-	<string name="tapToSelectServer">Tap here to select server</string>
 	<string name="typeServer">Type a server</string>
 	<string name="widgetEditor">Widget Editor</string>
 	<string name="updateAll.all">Update all the servers</string>

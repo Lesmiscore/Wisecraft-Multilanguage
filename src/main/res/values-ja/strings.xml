@@ -132,6 +132,24 @@
     <string name="noCellular">モバイルネットワーク接続時にはpingしない</string>
     <string name="noCellular_desc">Wisecraftはサーバーをオフラインとして扱うため、必要に応じてサーバーをタッチしてpingする必要があります。</string>
     <string name="sortByHand">手動で並び替え</string>
+	<string name="addLessRows">サーバーリストの列数を調整する</string>
+	<string name="noScrollServerInfo">サーバー詳細画面を最初から全体に表示する</string>
+	<string name="action">操作</string>
+	<string name="serverDetails">サーバー詳細</string>
+	<string name="addServer">サーバーを追加</string>
+	<string name="ipOrHost">IPアドレスまたはホスト名</string>
+	<string name="mode">モード</string>
+	<string name="result">結果</string>
+	<string name="generate">作成</string>
+	<string name="genLink">\"Wisecraft Open\"リンクを作成</string>
+	<string name="copyToClipboard">クリップボードにコピー</string>
+	<string name="copied">コピーしました</string>
+	<string name="typeServer">サーバーを直接入力</string>
+	<string name="widgetEditor">ウィジェットを編集</string>
+	<string name="updateAll.all">全てのサーバーを更新</string>
+	<string name="updateAll.online">オンラインのサーバーのみを更新</string>
+	<string name="updateAll.offline">オフラインのサーバーのみを更新</string>
+	<string name="updateAll.select">更新するサーバーを選択</string>
 
 
     <string name="font">DroidSans.ttf</string>
