@@ -162,6 +162,10 @@
 	<string name="updateAll.online">Update only online servers</string>
 	<string name="updateAll.offline">Update only offline servers</string>
 	<string name="updateAll.select">Select servers to update</string>
+	<string name="themeMode">Theme</string>
+	<string name="light">Light</string>
+	<string name="dark">Dark</string>
+	<string name="darkOnNight">Dark on Night</string>
     
 	
 	
@@ -221,5 +225,11 @@
         <item>robotoSlabLight</item>
         <item>ubuntuFont</item>
         <item>sysDefault</item>
+    </string-array>
+	
+	<string-array name="themeMode">
+        <item>@string/light</item>
+        <item>@string/dark</item>
+        <item>@string/darkOnNight</item>
     </string-array>
 </resources>
