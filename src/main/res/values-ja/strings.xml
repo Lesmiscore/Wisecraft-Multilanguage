@@ -152,6 +152,6 @@
 	<string name="updateAll.select">更新するサーバーを選択</string>
 
 
-    <string name="font">DroidSans.ttf</string>
-    <string name="fontField">droidSans</string>
+    <string name="font">Mplus1p-Regular.ttf</string>
+    <string name="fontField">mplus1p</string>
 </resources>
