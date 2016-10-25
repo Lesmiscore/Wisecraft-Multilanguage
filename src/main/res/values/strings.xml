@@ -222,7 +222,6 @@
 	<string-array name="fontNamesOrder">
         <item>droidSans</item>
         <item>latoLight</item>
-        <item>robotoSlabLight</item>
         <item>ubuntuFont</item>
         <item>sysDefault</item>
 		<item>mplus1p</item>
