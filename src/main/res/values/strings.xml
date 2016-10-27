@@ -166,6 +166,7 @@
 	<string name="light">Light</string>
 	<string name="dark">Dark</string>
 	<string name="darkOnNight">Dark on Night</string>
+	<string name="useAltServer">Use only TCP to ping (via an another server)</string>
     
 	
 	

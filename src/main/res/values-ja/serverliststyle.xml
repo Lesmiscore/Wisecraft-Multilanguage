@@ -1,0 +1,10 @@
+<resources>
+	<string name="serverListLooks">サーバーリストの見た目</string>
+	<string name="background">背景</string>
+	<string name="white">白</string>
+	<string name="black">黒</string>
+	<string name="dirt">土</string>
+	<string name="singleColor">単色</string>
+	<string name="image">画像</string>
+	<string name="textColor">文字色</string>
+</resources>

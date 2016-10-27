@@ -150,6 +150,11 @@
 	<string name="updateAll.online">オンラインのサーバーのみを更新</string>
 	<string name="updateAll.offline">オフラインのサーバーのみを更新</string>
 	<string name="updateAll.select">更新するサーバーを選択</string>
+	<string name="themeMode">テーマ</string>
+	<string name="light">明</string>
+	<string name="dark">暗</string>
+	<string name="darkOnNight">夜に限り暗</string>
+	<string name="useAltServer">pingにはTCPのみを使用する (他のサーバーを経由します。)</string>
 
 
     <string name="font">Mplus1p-Regular.ttf</string>
