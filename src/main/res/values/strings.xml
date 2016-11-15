@@ -169,7 +169,6 @@
 	<string name="useAltServer">Use only TCP to ping (via an another server)</string>
 	<string name="gpsRequiredForDayNight">This theme needs your geolocation information to calculate whether your place is now night or not.\nIf you selected [{NO}], the selection will be rolled back before you select.</string>
 	<string name="violet">Violet</string>
-	<string name="black">Black</string>
 	<string name="delete">Delete</string>
     
 	
