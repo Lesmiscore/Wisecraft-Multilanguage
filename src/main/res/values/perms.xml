@@ -1,0 +1,7 @@
+<resources>
+	<string name="permissionsRequired">Permission(s) required</string>
+	<string name="permissionsRequiredMessage">This operation requires these permission [REASON]:</string>
+	<string name="permissionsRequiredReasonSelectFile">to select a file</string>
+	<string name="permissionsRequiredError">Operation failed - please accept these permissions yourself [REASON]:</string>
+	<string name="continue_">Continue</string>
+</resources>
