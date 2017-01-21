@@ -172,6 +172,7 @@
 	<string name="delete">Delete</string>
 	<string name="letRetryPing">Retry when the ping failed</string>
 	<string name="retryIteration">Times to Retry</string>
+	<string name="all.select">Select servers to delete</string>
     
 	
 	

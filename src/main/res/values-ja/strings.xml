@@ -155,6 +155,10 @@
 	<string name="dark">暗</string>
 	<string name="darkOnNight">夜に限り暗</string>
 	<string name="useAltServer">pingにはTCPのみを使用する (他のサーバーを経由します。)</string>
+	<string name="gpsRequiredForDayNight">このテーマは、あなたのいる場所が昼もしくは夜かを判定するために、現在地情報が必要です。\n「{NO}」を選択すると、操作は取り消されます。</string>
+	<string name="violet">バイオレット</string>
+	<string name="delete">削除</string>
+	<string name="all.select">削除するサーバーを選択</string>
 
 
     <string name="font">Mplus1p-Regular.ttf</string>
