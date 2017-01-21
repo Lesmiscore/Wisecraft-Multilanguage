@@ -158,7 +158,7 @@
 	<string name="gpsRequiredForDayNight">このテーマは、あなたのいる場所が昼もしくは夜かを判定するために、現在地情報が必要です。\n「{NO}」を選択すると、操作は取り消されます。</string>
 	<string name="violet">バイオレット</string>
 	<string name="delete">削除</string>
-	<string name="all.select">削除するサーバーを選択</string>
+	<string name="add.select">削除するサーバーを選択</string>
 
 
     <string name="font">Mplus1p-Regular.ttf</string>
