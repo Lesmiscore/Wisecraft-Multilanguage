@@ -173,6 +173,7 @@
 	<string name="letRetryPing">Retry when the ping failed</string>
 	<string name="retryIteration">Times to Retry</string>
 	<string name="add.select">Select servers to delete</string>
+	<string name="errorWhileLoading">An error occured while loading the result</string>
     
 	
 	
