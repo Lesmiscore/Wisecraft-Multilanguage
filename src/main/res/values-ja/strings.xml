@@ -159,6 +159,8 @@
 	<string name="violet">バイオレット</string>
 	<string name="delete">削除</string>
 	<string name="add.select">削除するサーバーを選択</string>
+	<string name="playerName">プレイヤー名</string>
+	<string name="mcbansReputation">MCBans評価値</string>
 
 
     <string name="font">Mplus1p-Regular.ttf</string>
