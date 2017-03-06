@@ -177,6 +177,8 @@
 	<string name="playerName">Player Name</string>
 	<string name="uuid">UUID</string>
 	<string name="mcbansReputation">MCBans reputation</string>
+	<string name="webGlUnsupported">WebGL is not supported on WebView.\nPlease use WebGL-friendly browser by clicking the button below.</string>
+	<string name="openAnotherBrowser">Open in another browser</string>
     
 	
 	
