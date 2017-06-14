@@ -179,9 +179,11 @@
 	<string name="mcbansReputation">MCBans reputation</string>
 	<string name="webGlUnsupported">WebGL is not supported on WebView.\nPlease use WebGL-friendly browser by clicking the button below.</string>
 	<string name="openAnotherBrowser">Open in another browser</string>
-    
-	
-	
+    <string name="crawlerServerOnline">Server is now online.</string>
+    <string name="crawlerServerOffline">Server is now offline.</string>
+
+
+
 
 
     <string name="font">lato-light.ttf</string>
