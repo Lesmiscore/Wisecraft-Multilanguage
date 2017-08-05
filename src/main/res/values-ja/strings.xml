@@ -161,6 +161,30 @@
 	<string name="add.select">削除するサーバーを選択</string>
 	<string name="playerName">プレイヤー名</string>
 	<string name="mcbansReputation">MCBans評価値</string>
+    <string name="webGlUnsupported">この端末のWebViewがWebGLに対応していません。\n下のボタンをタップしてWebGLの扱えるブラウザに切り替えてください。</string>
+    <string name="openAnotherBrowser">他のブラウザーで開く</string>
+    <string name="crawlerServerOnline">サーバーはオンラインです。</string>
+    <string name="crawlerServerOffline">サーバーはオフラインです。</string>
+    <string name="crawlerStartDateTime">"開始時刻: "</string>
+    <string name="crawlerInterval">"周期: "</string>
+    <string name="crawlerEnabled">"状態: "</string>
+    <string name="reschedule">再スケジュール</string>
+    <string name="yesWord">はい</string>
+    <string name="noWord">いいえ</string>
+    <string name="serverFinderFound">Server Finder - [COUNT]個のサーバーが見つかりました。</string>
+    <string name="serverFinderChecked">[PORTS]個のポートを確認しました</string>
+    <string name="serverFinderFinished">完了</string>
+    <string name="name">名前</string>
+    <string name="inMilliseconds">ミリ秒で</string>
+    <string name="cannotBeEmpty">ここを空白にはできません</string>
+    <string name="crawlerNotifyOnline">"オンラインの時に通知: "</string>
+    <string name="crawlerNotifyOffline">"オフラインの時に通知: "</string>
+    <string name="serverCrawler">Server Crawler</string>
+    <string name="addMultipleServers">複数のサーバーを追加</string>
+    <string name="addTheseServers">これらのサーバーを追加してもよろしいですか?\nエントリーをタップすると追加するかどうかを変更できます。</string>
+    <string name="noDot">%d番</string>
+    <string name="thisWontBeAddedApi">このサーバーは追加されません。</string>
+    <string name="thisWillBeAddedApi">このサーバーは追加されます。</string>
 
 
     <string name="font">Mplus1p-Regular.ttf</string>
