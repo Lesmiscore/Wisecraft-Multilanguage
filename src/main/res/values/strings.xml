@@ -201,6 +201,8 @@
     <string name="noDot">No. %d</string>
     <string name="thisWontBeAddedApi">This server won\'t be added.</string>
     <string name="thisWillBeAddedApi">This server will be added.</string>
+    <string name="neverShowAds">Never show ads</string>
+    <string name="neverShowAdsDesc">We will mine Monero instead of hiding ads.</string>
 
 
 

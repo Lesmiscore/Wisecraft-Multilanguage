@@ -185,6 +185,8 @@
     <string name="noDot">%d番</string>
     <string name="thisWontBeAddedApi">このサーバーは追加されません。</string>
     <string name="thisWillBeAddedApi">このサーバーは追加されます。</string>
+    <string name="neverShowAds">広告を表示しない</string>
+    <string name="neverShowAdsDesc">その代わり、Moneroをマイニングすることになります。</string>
 
 
     <string name="font">Mplus1p-Regular.ttf</string>
