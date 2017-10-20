@@ -6,8 +6,8 @@ buildscript {
         maven { url 'https://jitpack.io' }
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.4.0-alpha7' 
-        classpath 'com.github.nao20010128nao:AndroidDailyOverride:da0e23245a'
+        classpath 'com.android.tools.build:gradle:2.4.0-alpha7'
+        classpath 'com.github.nao20010128nao:AndroidDailyOverride:524b890'
     }
 }
 com.nao20010128nao.ADO.AndroidDailyOverride.run()
